@@ -1,0 +1,8 @@
+# Auto-detect text files and normalize their line endings
+* text=auto
+
+# Explicitly set line endings for specific file types
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.php text eol=lf
