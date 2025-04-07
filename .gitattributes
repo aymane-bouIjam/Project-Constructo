@@ -1,4 +1,4 @@
-# Auto-detect text files and normalize their line endings
+# Auto-detect text files and normalize their lines endings
 * text=auto
 
 # Explicitly set line endings for specific file types
