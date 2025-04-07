@@ -2,7 +2,7 @@
 A web platform for the **Constructo** construction company with a public website and admin dashboard.
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, Sass, Bootstrap  
+- **Frontend:** Reactjs, Sass, Bootstrap  
 - **Backend:** Laravel (PHP)  
 - **Database:** MySQL  
 
